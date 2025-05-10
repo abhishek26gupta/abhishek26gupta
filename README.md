@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Passionate Penetration Tester & Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Hacker GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa242eWE0OTljMHZkanBvdDhsaGlrcmdxZDYxbnY2bG9reXQwaGt3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378vMZ1IbLcmj3H2/giphy.gif" />
+<img align="right" alt="Hacker GIF" width="300" src="https://media.giphy.com/media/DHBGehJ3FSZEygszX3/giphy.gif?cid=ecf05e47dsz7w7u5mrihig2tc6xoyr0luobowua8r0qatef9&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ---
 
