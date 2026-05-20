@@ -42,7 +42,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek26gupta/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:abhishek.gupta.cyber@gmail.com" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@abhishek-ji" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/medium4864.jpg" alt="Medium" height="50" width="50" /></a>
 </p>
